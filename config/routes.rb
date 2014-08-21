@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+
+  get 'pages/about'
+
+  get 'pages/contact'
+
   resources :todo_lists
   root 'todo_lists#index'
 
