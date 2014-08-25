@@ -1,4 +1,4 @@
-===== TREEHOUSE PROJECT ======
+===== TREEHOUSE PROJECT 
 
 This is my personal version of the ODOT to-do list project. 
 
